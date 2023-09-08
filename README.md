@@ -1,4 +1,3 @@
-# ಠ_ಠ
 <!DOCTYPE html>
 <html>
   <head>
