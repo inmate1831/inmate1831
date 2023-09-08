@@ -1,4 +1,4 @@
-# ಠ_ಠ Projects
+# ಠ_ಠ
 <!DOCTYPE html>
 <html>
   <head>
