@@ -6,17 +6,13 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UC4jFjK9kADqSa3o0FZzjwZw?sub_confirmation=1">
-    <img alt="YT Subs" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC4jFjK9kADqSa3o0FZzjwZw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-  </a>
+    <img alt="YT Subs" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC4jFjK9kADqSa3o0FZzjwZw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
   <a href="https://www.youtube.com/channel/UC4jFjK9kADqSa3o0FZzjwZw">
-    <img alt="YT Views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC4jFjK9kADqSa3o0FZzjwZw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/>
-  </a>
+    <img alt="YT Views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC4jFjK9kADqSa3o0FZzjwZw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
   <a href="https://github.com/tomioka0802?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tomioka0802?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/tomioka0802?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/tomioka0802?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tomioka0802?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/tomioka0802?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
 ## Tookit
