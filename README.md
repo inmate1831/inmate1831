@@ -39,6 +39,6 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 📊 Stats
 
-![JIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ominousjin&show_icons=true&theme=transparent)
+![JIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ominousjin&show_icons=true&theme=merko&bg_color=00000000)
 
 #
