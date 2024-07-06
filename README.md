@@ -39,6 +39,6 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 📊 Stats
 
-![Tomioka's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomioka0802&show_icons=true&theme=gruvbox)
+![JIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomioka0802&show_icons=true&theme=gruvbox)
 
 #
