@@ -39,6 +39,6 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 📊 Stats
 
-![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=gg&show_icons=true&theme=prussian&bg_color=00000000)
+![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ominousjin&show_icons=true&theme=prussian&bg_color=00000000)
 
 #
