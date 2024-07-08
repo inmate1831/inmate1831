@@ -1,4 +1,4 @@
-# ⛩️ JIN
+# ⛩️ Akarsh
 
 Within this repository constellation, you'll find a variety of projects that showcase my technical skills, problem-solving abilities, and the technologies I've been exploring. From small experiments to full-fledged applications, each project has its own unique story and development journey.
 
@@ -39,6 +39,6 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 📊 Stats
 
-![JIN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ominousjin&show_icons=true&theme=prussian&bg_color=00000000)
+![Akarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ominousjin&show_icons=true&theme=prussian&bg_color=00000000)
 
 #
