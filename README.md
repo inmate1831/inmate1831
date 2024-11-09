@@ -35,7 +35,7 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 📊 Stats and Activity
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Inmate's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=inmate1831&theme=calm&background=00000000&hide_border=true"/></a>
+<p><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Inmate's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=inmate1831&theme=calm&background=00000000&hide_border=true"/></a></p>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Inmate's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=inmate1831&show_icons=true&include_all_commits=true&count_private=true&theme=calm&hide_border=true&bg_color=00000000" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Inmate's Obsessions" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=inmate1831&langs_count=8&layout=compact&theme=calm&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff&custom_title=Inmate's%20Obsessions" height="192px"/></a>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Inmate's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=inmate1831&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
