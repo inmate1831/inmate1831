@@ -36,7 +36,7 @@ Within this repository constellation, you'll find a variety of projects that sho
 ### 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img alt="Inmate's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=inmate1831&show_icons=true&include_all_commits=true&count_private=true&theme=calm&hide_border=true@bg_color=00000000" height=%22192px%22/>
+<img alt="Inmate's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=inmate1831&show_icons=true&include_all_commits=true&count_private=true&theme=calm&hide_border=true&bg_color=00000000" height=%22192px%22/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img alt="Inmate's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=inmate1831&langs_count=8&layout=compact&theme=calm&hide_border=true&bg_color=00000000&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
