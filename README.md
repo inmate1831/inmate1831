@@ -6,9 +6,9 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 <p align="left">
   <a href="https://github.com/inmate1831?tab=followers">
-    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/inmate1831?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/inmate1831?color=236ad3&labelColor=0b0b0b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/inmate1831?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/inmate1831?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/inmate1831?color=55960c&style=for-the-badge&labelColor=161616&logo=star"/></a>
 </p>
 
 #
