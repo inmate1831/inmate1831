@@ -35,7 +35,7 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 📊 Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=inmate1831&theme=calm&hide_border=true&background=0%2C00000000%2C00000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=inmate1831&theme=calm&hide_border=true&background=0%2CEB5454%2CEB5454" alt="GitHub Streak" /></a>
 
 ![Inmate's GitHub stats](https://github-readme-stats.vercel.app/api?username=inmate1831&show_icons=true&theme=calm&bg_color=00000000)
 
