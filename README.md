@@ -6,9 +6,9 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UC4jFjK9kADqSa3o0FZzjwZw?sub_confirmation=1">
-    <img alt="YT Subs" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC4jFjK9kADqSa3o0FZzjwZw?color=%0b0b0b&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>
+    <img alt="YT Subs" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC4jFjK9kADqSa3o0FZzjwZw?color=%23E05D44&label=SUB&logo=video&logoColor=white&style=for-the-badge&labelColor=0b0b0b"/></a>
   <a href="https://www.youtube.com/channel/UC4jFjK9kADqSa3o0FZzjwZw">
-    <img alt="YT Views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC4jFjK9kADqSa3o0FZzjwZw?color=%0b0b0b&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a>
+    <img alt="YT Views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC4jFjK9kADqSa3o0FZzjwZw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=0b0b0b"/></a>
   <a href="https://github.com/inmate1831?tab=followers">
     <img alt="Followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/inmate1831?color=f9744b&labelColor=0b0b0b&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
   <a href="https://github.com/inmate1831?tab=repositories&sort=stargazers">
