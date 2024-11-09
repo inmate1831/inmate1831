@@ -35,6 +35,6 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 📊 Stats
 
-![Inmate's GitHub stats](https://github-readme-stats.vercel.app/api?username=inmate1831&show_icons=true&theme=calm&bg_color=00000000&border_color=e06843)
+![Inmate's GitHub stats](https://github-readme-stats.vercel.app/api?username=inmate1831&show_icons=true&theme=calm&bg_color=4D5E72&border_color=e06843)
 
 #
