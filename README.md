@@ -44,4 +44,5 @@ Within this repository constellation, you'll find a variety of projects that sho
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Inmate's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=inmate1831&show_icons=true&include_all_commits=true&count_private=true&theme=calm&hide_border=true&bg_color=00000000" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Inmate's Obsessions" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=inmate1831&langs_count=8&layout=compact&theme=calm&hide_border=true&bg_color=00000000&hide=Jupyter%20Notebook,Roff&custom_title=Inmate's%20Obsessions" height="192px"/></a>
 </p>
+
 #
