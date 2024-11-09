@@ -23,7 +23,7 @@ Within this repository constellation, you'll find a variety of projects that sho
     <img align="center" alt="Java" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" alt="Java" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
     <img align="center" alt="Java" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-    <img align="center" alt="Java" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img align="center" alt="Java" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="Java" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />   
     <img align="center" alt="Linux" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="center" alt="HTML" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
