@@ -15,7 +15,7 @@ Within this repository constellation, you'll find a variety of projects that sho
 
 ### 🧰 Languages and Tools
 
-<div align="center">
+<div align="center" style="padding-top: 10px>
     <img align="center" alt="Python" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="center" alt="Flutter" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
     <img align="center" alt="Git" width="40px" style="margin: 0 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
